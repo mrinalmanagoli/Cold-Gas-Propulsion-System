@@ -1,0 +1,1 @@
+g++ main.cpp -o myApp.exe -lwsock32
